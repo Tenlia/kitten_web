@@ -8,10 +8,15 @@
   </head>
   <body>
     <header>
+      <ul class="topbar">
+        <li><div></div></li>
+        <li><div></div></li>
+        <li><div id="selected"></div></li>
+      </ul>
       <ul class="nav">
         <li><a href="#">Home</a></li>
         <li><a href="#">About</a></li>
-        <li class="selected"><a href="#">Contact</a></li>
+        <li><a href="#" class="selected">Contact</a></li>
       </ul>
       <ul class="icons">
         <li><a href="#"><img src="img/facebook.png"></a></li>
@@ -22,7 +27,7 @@
     </header>
     <main>
       <img class="banner" src="http://placekitten.com/960/450">
-      <h2>Cat Chat!</h2>
+      <div id="textbox"><h2>Cat Chat!</h2></div>
       <section class="content">
         <form id="">
           <fieldset>
