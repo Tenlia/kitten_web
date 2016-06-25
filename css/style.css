@@ -3,7 +3,6 @@
 }
 header {
 	background-color: #2d2d2d;
-	/*selected: #fff;*/
 	height: 100px;
 }
 header ul {
@@ -14,9 +13,24 @@ header ul li {
 	font-family: 'Droid Sans', sans-serif;
 	text-transform: uppercase;
 }
-a:link {
+a {
 	text-decoration: none;
 	color: #878787;
+}
+.topbar {
+	display: inline;
+	margin: 0px;
+}
+.topbar li {
+	height: 10px;
+	width: 50px;
+	color: #000;
+}
+#selected {
+	color: #e00000;
+}
+.selected {
+	color: #fff;
 }
 .nav {
 	float: left;
@@ -38,4 +52,35 @@ a:link {
 body {
 	background-color: #eaeaea;
 	color: #fff;
+	width: 960px;
+	margin: 0px auto;
+	font-family: "helvetica light", sans-serif;
+}
+main {
+	position: relative;
+	background-color: #3a3a3a;
+}
+.banner{
+	position: relative;
+}
+#textbox {
+	position: absolute;
+	top: 75px;
+	left: 130px;
+	width: 700px;
+	height: 250px;
+	border: 10px solid #fff;
+}
+#textbox h2 {
+	text-transform: uppercase;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 50px;
+	margin: 90px 215px;
+}
+footer {
+	background-color: #2d2d2d;
+	height: 20px;
+}
+footer p {
+	margin: 0px auto;
 }
