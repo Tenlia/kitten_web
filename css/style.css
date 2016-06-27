@@ -79,7 +79,6 @@ form ul {
 form ul li {
 	display: block;
 	margin-top: 50px;
-	/*potition: relative;*/
 }
 form ul li label {
 	font-family: 'Droid Sans', sans-serif;
@@ -88,7 +87,6 @@ form ul li label {
 }
 form ul li input {
 	float: right;
-	/*margin-bottom: 20px;*/
 	width: 350px;
 	height: 50px;
 	border: none;
