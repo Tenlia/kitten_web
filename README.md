@@ -1,7 +1,15 @@
 # kitten_web
-This is the version Liz is pushing to github
 
 Developers: Elizabeth and Val
+
+### Elizabeth's work:
+
+
+### Val's work:
+- gather and track requirements.
+- create directories and html scaffolds.
+- Code css and html for the content section of about.html.
+  NOTE: Currently about.html uses its own style sheet, and includes code for global styles. A more complete version should remove the global styles, so that the site has only one instance of global style coding.
 
 ## Attributions
 http://meyerweb.com/eric/tools/css/reset/
