@@ -3,7 +3,9 @@
 Developers: Elizabeth and Val
 
  About Page: http://htmlpreview.github.io/?https://github.com/Tenlia/kitten_web/blob/gh-pages/about.html
- Contact Page :
+
+ Contact Page : http://htmlpreview.github.io/?https://github.com/Tenlia/kitten_web/blob/gh-pages/contact.html
+ 
 ### Elizabeth's work:
 
 - Wrote HTML for Contact Page
